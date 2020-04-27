@@ -1,0 +1,21 @@
+body {
+	background:  #b3e6ff; 
+}
+
+h1 {
+	font-family: Helvetica; 
+}
+
+h3 {
+	font-family: Times New Roman;
+}
+
+h5{
+	font-style: italic; 
+	font-size: 17px
+}
+
+p {
+	font-family: Arial; 
+	font-size: 15px
+}
